@@ -1,0 +1,272 @@
+[
+  {
+    "id": "L-000001",
+    "brand": "HP",
+    "model": "Nature-9615",
+    "year": 2017,
+    "ram": 128,
+    "vram": 8,
+    "owner_id": "P-000032"
+  },
+  {
+    "id": "L-000002",
+    "brand": "Dell",
+    "model": "Deep-7262",
+    "year": 2016,
+    "ram": 128,
+    "vram": 8,
+    "owner_id": "P-000045"
+  },
+  {
+    "id": "L-000003",
+    "brand": "MSI",
+    "model": "Scene-8626",
+    "year": 2021,
+    "ram": 32,
+    "vram": 8,
+    "owner_id": "P-000003"
+  },
+  {
+    "id": "L-000004",
+    "brand": "Dell",
+    "model": "Your-4572",
+    "year": 2022,
+    "ram": 64,
+    "vram": 8,
+    "owner_id": "P-000028"
+  },
+  {
+    "id": "L-000005",
+    "brand": "HP",
+    "model": "Amount-138",
+    "year": 2023,
+    "ram": 4,
+    "vram": 8,
+    "owner_id": "P-000019"
+  },
+  {
+    "id": "L-000006",
+    "brand": "Apple",
+    "model": "Sea-3551",
+    "year": 2017,
+    "ram": 64,
+    "vram": 8,
+    "owner_id": "P-000019"
+  },
+  {
+    "id": "L-000007",
+    "brand": "MSI",
+    "model": "Do-2529",
+    "year": 2024,
+    "ram": 16,
+    "vram": 8,
+    "owner_id": "P-000031"
+  },
+  {
+    "id": "L-000008",
+    "brand": "Apple",
+    "model": "Show-3544",
+    "year": 2021,
+    "ram": 32,
+    "vram": 4,
+    "owner_id": "P-000017"
+  },
+  {
+    "id": "L-000009",
+    "brand": "Apple",
+    "model": "Stuff-7048",
+    "year": 2016,
+    "ram": 4,
+    "vram": 8,
+    "owner_id": "P-000029"
+  },
+  {
+    "id": "L-000010",
+    "brand": "MSI",
+    "model": "Three-6222",
+    "year": 2016,
+    "ram": 4,
+    "vram": 16,
+    "owner_id": "P-000045"
+  },
+  {
+    "id": "L-000011",
+    "brand": "Razer",
+    "model": "Plant-9802",
+    "year": 2024,
+    "ram": 16,
+    "vram": 2,
+    "owner_id": "P-000021"
+  },
+  {
+    "id": "L-000012",
+    "brand": "Razer",
+    "model": "Event-6966",
+    "year": 2020,
+    "ram": 128,
+    "vram": 4,
+    "owner_id": "P-000024"
+  },
+  {
+    "id": "L-000013",
+    "brand": "Acer",
+    "model": "For-3944",
+    "year": 2018,
+    "ram": 8,
+    "vram": 4,
+    "owner_id": "P-000049"
+  },
+  {
+    "id": "L-000014",
+    "brand": "HP",
+    "model": "Pattern-5861",
+    "year": 2016,
+    "ram": 8,
+    "vram": 2,
+    "owner_id": "P-000032"
+  },
+  {
+    "id": "L-000015",
+    "brand": "Lenovo",
+    "model": "Whose-3797",
+    "year": 2021,
+    "ram": 128,
+    "vram": 8,
+    "owner_id": "P-000034"
+  },
+  {
+    "id": "L-000016",
+    "brand": "Apple",
+    "model": "Back-1225",
+    "year": 2015,
+    "ram": 32,
+    "vram": 12,
+    "owner_id": "P-000026"
+  },
+  {
+    "id": "L-000017",
+    "brand": "MSI",
+    "model": "Off-2550",
+    "year": 2023,
+    "ram": 16,
+    "vram": 16,
+    "owner_id": "P-000009"
+  },
+  {
+    "id": "L-000018",
+    "brand": "Asus",
+    "model": "Body-4009",
+    "year": 2018,
+    "ram": 4,
+    "vram": 6,
+    "owner_id": "P-000013"
+  },
+  {
+    "id": "L-000019",
+    "brand": "Acer",
+    "model": "Indicate-9602",
+    "year": 2022,
+    "ram": 4,
+    "vram": 8,
+    "owner_id": "P-000022"
+  },
+  {
+    "id": "L-000020",
+    "brand": "Asus",
+    "model": "New-7016",
+    "year": 2018,
+    "ram": 128,
+    "vram": 4,
+    "owner_id": "P-000031"
+  },
+  {
+    "id": "L-000021",
+    "brand": "Apple",
+    "model": "Family-4703",
+    "year": 2024,
+    "ram": 64,
+    "vram": 8,
+    "owner_id": "P-000048"
+  },
+  {
+    "id": "L-000022",
+    "brand": "Lenovo",
+    "model": "As-1615",
+    "year": 2023,
+    "ram": 32,
+    "vram": 8,
+    "owner_id": "P-000030"
+  },
+  {
+    "id": "L-000023",
+    "brand": "Apple",
+    "model": "Business-6652",
+    "year": 2017,
+    "ram": 8,
+    "vram": 8,
+    "owner_id": "P-000036"
+  },
+  {
+    "id": "L-000024",
+    "brand": "Apple",
+    "model": "Nor-8607",
+    "year": 2022,
+    "ram": 8,
+    "vram": 4,
+    "owner_id": "P-000028"
+  },
+  {
+    "id": "L-000025",
+    "brand": "MSI",
+    "model": "Front-7028",
+    "year": 2023,
+    "ram": 64,
+    "vram": 8,
+    "owner_id": "P-000035"
+  },
+  {
+    "id": "L-000026",
+    "brand": "Razer",
+    "model": "Yeah-3592",
+    "year": 2023,
+    "ram": 128,
+    "vram": 2,
+    "owner_id": "P-000006"
+  },
+  {
+    "id": "L-000027",
+    "brand": "Apple",
+    "model": "During-8872",
+    "year": 2024,
+    "ram": 128,
+    "vram": 8,
+    "owner_id": "P-000022"
+  },
+  {
+    "id": "L-000028",
+    "brand": "Lenovo",
+    "model": "Few-3224",
+    "year": 2025,
+    "ram": 8,
+    "vram": 12,
+    "owner_id": "P-000038"
+  },
+  {
+    "id": "L-000029",
+    "brand": "MSI",
+    "model": "Sort-9657",
+    "year": 2022,
+    "ram": 4,
+    "vram": 12,
+    "owner_id": "P-000042"
+  },
+  {
+    "id": "L-000030",
+    "brand": "Asus",
+    "model": "Child-5888",
+    "year": 2019,
+    "ram": 32,
+    "vram": 16,
+    "owner_id": "P-000018"
+  }
+]

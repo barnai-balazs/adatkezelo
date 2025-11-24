@@ -1,0 +1,212 @@
+[
+  {
+    "id": "B-000001",
+    "brand": "Cannondale",
+    "model": "Whom-512",
+    "year": 2010,
+    "owner_id": "P-000038"
+  },
+  {
+    "id": "B-000002",
+    "brand": "Giant",
+    "model": "Represent-573",
+    "year": 2024,
+    "owner_id": "P-000013"
+  },
+  {
+    "id": "B-000003",
+    "brand": "Scott",
+    "model": "Win-542",
+    "year": 2004,
+    "owner_id": "P-000005"
+  },
+  {
+    "id": "B-000004",
+    "brand": "Cannondale",
+    "model": "Respond-633",
+    "year": 2025,
+    "owner_id": "P-000022"
+  },
+  {
+    "id": "B-000005",
+    "brand": "Bianchi",
+    "model": "Appear-893",
+    "year": 2025,
+    "owner_id": "P-000031"
+  },
+  {
+    "id": "B-000006",
+    "brand": "Cube",
+    "model": "Represent-556",
+    "year": 2021,
+    "owner_id": "P-000040"
+  },
+  {
+    "id": "B-000007",
+    "brand": "Trek",
+    "model": "Figure-874",
+    "year": 2015,
+    "owner_id": "P-000008"
+  },
+  {
+    "id": "B-000008",
+    "brand": "Specialized",
+    "model": "Student-601",
+    "year": 2012,
+    "owner_id": "P-000045"
+  },
+  {
+    "id": "B-000009",
+    "brand": "Bianchi",
+    "model": "Happen-390",
+    "year": 2021,
+    "owner_id": "P-000002"
+  },
+  {
+    "id": "B-000010",
+    "brand": "Scott",
+    "model": "Approach-384",
+    "year": 2008,
+    "owner_id": "P-000046"
+  },
+  {
+    "id": "B-000011",
+    "brand": "Merida",
+    "model": "Glass-770",
+    "year": 2025,
+    "owner_id": "P-000040"
+  },
+  {
+    "id": "B-000012",
+    "brand": "Giant",
+    "model": "State-601",
+    "year": 2006,
+    "owner_id": "P-000045"
+  },
+  {
+    "id": "B-000013",
+    "brand": "Cube",
+    "model": "Third-803",
+    "year": 2014,
+    "owner_id": "P-000015"
+  },
+  {
+    "id": "B-000014",
+    "brand": "Trek",
+    "model": "Near-333",
+    "year": 2006,
+    "owner_id": "P-000033"
+  },
+  {
+    "id": "B-000015",
+    "brand": "Merida",
+    "model": "Face-785",
+    "year": 2021,
+    "owner_id": "P-000036"
+  },
+  {
+    "id": "B-000016",
+    "brand": "Trek",
+    "model": "Yet-855",
+    "year": 2014,
+    "owner_id": "P-000008"
+  },
+  {
+    "id": "B-000017",
+    "brand": "Trek",
+    "model": "Hundred-720",
+    "year": 2001,
+    "owner_id": "P-000027"
+  },
+  {
+    "id": "B-000018",
+    "brand": "Cube",
+    "model": "Ever-807",
+    "year": 2022,
+    "owner_id": "P-000012"
+  },
+  {
+    "id": "B-000019",
+    "brand": "Cannondale",
+    "model": "Month-934",
+    "year": 2015,
+    "owner_id": "P-000031"
+  },
+  {
+    "id": "B-000020",
+    "brand": "Specialized",
+    "model": "Maybe-304",
+    "year": 2012,
+    "owner_id": "P-000033"
+  },
+  {
+    "id": "B-000021",
+    "brand": "Cannondale",
+    "model": "Provide-707",
+    "year": 2017,
+    "owner_id": "P-000040"
+  },
+  {
+    "id": "B-000022",
+    "brand": "Cube",
+    "model": "Five-113",
+    "year": 2024,
+    "owner_id": "P-000037"
+  },
+  {
+    "id": "B-000023",
+    "brand": "Scott",
+    "model": "Unit-998",
+    "year": 2012,
+    "owner_id": "P-000038"
+  },
+  {
+    "id": "B-000024",
+    "brand": "Bianchi",
+    "model": "Wall-382",
+    "year": 2025,
+    "owner_id": "P-000022"
+  },
+  {
+    "id": "B-000025",
+    "brand": "Cannondale",
+    "model": "Friend-247",
+    "year": 2010,
+    "owner_id": "P-000044"
+  },
+  {
+    "id": "B-000026",
+    "brand": "Trek",
+    "model": "Try-331",
+    "year": 2004,
+    "owner_id": "P-000021"
+  },
+  {
+    "id": "B-000027",
+    "brand": "Merida",
+    "model": "Allow-707",
+    "year": 2005,
+    "owner_id": "P-000002"
+  },
+  {
+    "id": "B-000028",
+    "brand": "Specialized",
+    "model": "Billion-572",
+    "year": 2012,
+    "owner_id": "P-000047"
+  },
+  {
+    "id": "B-000029",
+    "brand": "Merida",
+    "model": "Question-797",
+    "year": 2009,
+    "owner_id": "P-000012"
+  },
+  {
+    "id": "B-000030",
+    "brand": "Trek",
+    "model": "Middle-404",
+    "year": 2014,
+    "owner_id": "P-000005"
+  }
+]
