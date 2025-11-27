@@ -1,0 +1,212 @@
+[
+  {
+    "id": "B-000001",
+    "brand": "Scott",
+    "model": "Star-227",
+    "year": 2017,
+    "owner_id": "P-000010"
+  },
+  {
+    "id": "B-000002",
+    "brand": "Cube",
+    "model": "Religious-215",
+    "year": 2023,
+    "owner_id": "P-000035"
+  },
+  {
+    "id": "B-000003",
+    "brand": "Merida",
+    "model": "Now-923",
+    "year": 2003,
+    "owner_id": "P-000023"
+  },
+  {
+    "id": "B-000004",
+    "brand": "Trek",
+    "model": "Decide-617",
+    "year": 2010,
+    "owner_id": "P-000043"
+  },
+  {
+    "id": "B-000005",
+    "brand": "Specialized",
+    "model": "Pattern-637",
+    "year": 2017,
+    "owner_id": "P-000016"
+  },
+  {
+    "id": "B-000006",
+    "brand": "Merida",
+    "model": "Receive-955",
+    "year": 2006,
+    "owner_id": "P-000001"
+  },
+  {
+    "id": "B-000007",
+    "brand": "Cannondale",
+    "model": "Understand-674",
+    "year": 2010,
+    "owner_id": "P-000039"
+  },
+  {
+    "id": "B-000008",
+    "brand": "Scott",
+    "model": "Without-753",
+    "year": 2023,
+    "owner_id": "P-000038"
+  },
+  {
+    "id": "B-000009",
+    "brand": "Bianchi",
+    "model": "Event-233",
+    "year": 2013,
+    "owner_id": "P-000049"
+  },
+  {
+    "id": "B-000010",
+    "brand": "Trek",
+    "model": "Too-182",
+    "year": 2022,
+    "owner_id": "P-000028"
+  },
+  {
+    "id": "B-000011",
+    "brand": "Specialized",
+    "model": "Market-205",
+    "year": 2014,
+    "owner_id": "P-000008"
+  },
+  {
+    "id": "B-000012",
+    "brand": "Bianchi",
+    "model": "Form-766",
+    "year": 2008,
+    "owner_id": "P-000015"
+  },
+  {
+    "id": "B-000013",
+    "brand": "Cube",
+    "model": "Eye-806",
+    "year": 2018,
+    "owner_id": "P-000006"
+  },
+  {
+    "id": "B-000014",
+    "brand": "Scott",
+    "model": "Admit-390",
+    "year": 2005,
+    "owner_id": "P-000011"
+  },
+  {
+    "id": "B-000015",
+    "brand": "Trek",
+    "model": "Face-836",
+    "year": 2022,
+    "owner_id": "P-000029"
+  },
+  {
+    "id": "B-000016",
+    "brand": "Scott",
+    "model": "Your-138",
+    "year": 2003,
+    "owner_id": "P-000050"
+  },
+  {
+    "id": "B-000017",
+    "brand": "Scott",
+    "model": "Style-171",
+    "year": 2014,
+    "owner_id": "P-000018"
+  },
+  {
+    "id": "B-000018",
+    "brand": "Bianchi",
+    "model": "Seat-853",
+    "year": 2003,
+    "owner_id": "P-000038"
+  },
+  {
+    "id": "B-000019",
+    "brand": "Scott",
+    "model": "Race-200",
+    "year": 2002,
+    "owner_id": "P-000021"
+  },
+  {
+    "id": "B-000020",
+    "brand": "Trek",
+    "model": "Interesting-847",
+    "year": 2004,
+    "owner_id": "P-000014"
+  },
+  {
+    "id": "B-000021",
+    "brand": "Cannondale",
+    "model": "Game-191",
+    "year": 2006,
+    "owner_id": "P-000013"
+  },
+  {
+    "id": "B-000022",
+    "brand": "Scott",
+    "model": "Black-791",
+    "year": 2014,
+    "owner_id": "P-000007"
+  },
+  {
+    "id": "B-000023",
+    "brand": "Cube",
+    "model": "Director-628",
+    "year": 2010,
+    "owner_id": "P-000049"
+  },
+  {
+    "id": "B-000024",
+    "brand": "Trek",
+    "model": "Today-873",
+    "year": 2008,
+    "owner_id": "P-000045"
+  },
+  {
+    "id": "B-000025",
+    "brand": "Specialized",
+    "model": "Source-604",
+    "year": 2001,
+    "owner_id": "P-000045"
+  },
+  {
+    "id": "B-000026",
+    "brand": "Scott",
+    "model": "Much-120",
+    "year": 2006,
+    "owner_id": "P-000003"
+  },
+  {
+    "id": "B-000027",
+    "brand": "Specialized",
+    "model": "Heavy-674",
+    "year": 2021,
+    "owner_id": "P-000015"
+  },
+  {
+    "id": "B-000028",
+    "brand": "Trek",
+    "model": "Today-563",
+    "year": 2005,
+    "owner_id": "P-000036"
+  },
+  {
+    "id": "B-000029",
+    "brand": "Scott",
+    "model": "Financial-254",
+    "year": 2020,
+    "owner_id": "P-000020"
+  },
+  {
+    "id": "B-000030",
+    "brand": "Merida",
+    "model": "Positive-777",
+    "year": 2007,
+    "owner_id": "P-000008"
+  }
+]
